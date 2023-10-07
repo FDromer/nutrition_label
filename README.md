@@ -4,4 +4,4 @@ Typography is the art of styling your text to be easily readable and suit its pu
 
 &rarr; from [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-&rarr; The [Nutrition Label]()
+&rarr; The [Nutrition Label]( https://fdromer.github.io/nutrition_label/)
